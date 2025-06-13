@@ -1,0 +1,6 @@
+torch
+opencv-python
+transformers
+numpy
+huggingface-hub
+timm
